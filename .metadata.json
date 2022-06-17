@@ -1,0 +1,10 @@
+[
+  {
+    "package": "restoptr",
+    "oncran": true
+  },
+  {
+    "package": "rflsgen",
+    "oncran": true
+  }
+]
