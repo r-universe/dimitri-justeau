@@ -1,10 +1,10 @@
 [
   {
-    "package": "rflsgen",
+    "package": "restoptr",
     "oncran": true
   },
   {
-    "package": "restoptr",
+    "package": "rflsgen",
     "oncran": true
   }
 ]

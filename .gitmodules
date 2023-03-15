@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rflsgen"]
-	path = rflsgen
-	url = https://github.com/dimitri-justeau/rflsgen
-	shallow = true
-	registered = true
 [submodule "restoptr"]
 	path = restoptr
 	url = https://github.com/dimitri-justeau/restoptr
+	shallow = true
+	registered = true
+[submodule "rflsgen"]
+	path = rflsgen
+	url = https://github.com/dimitri-justeau/rflsgen
 	shallow = true
 	registered = true
