@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "restoptr"]
-	path = restoptr
-	url = https://github.com/dimitri-justeau/restoptr
 [submodule "rflsgen"]
 	path = rflsgen
 	url = https://github.com/dimitri-justeau/rflsgen
